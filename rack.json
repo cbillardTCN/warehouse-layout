@@ -1,0 +1,32 @@
+[
+    {
+        "row": "AAA",
+        "column": "AAA",
+        "floor": 1,
+        "lane": 2
+    },
+    {
+        "row": "AAB",
+        "column": "AAA",
+        "floor": 1,
+        "lane": 2
+    },
+    {
+        "row": "AAC",
+        "column": "AAA",
+        "floor": 1,
+        "lane": 2
+    },
+    {
+        "row": "AAD",
+        "column": "AAA",
+        "floor": 3,
+        "lane": 2
+    },
+    {
+        "row": "AAE",
+        "column": "AAA",
+        "floor": 3,
+        "lane": 2
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+      "lane": "1",
+      "columns": [
+        {
+          "column": "AAA",
+          "racks": [
+            {
+              "floor": 1, 
+              "row": "AAA"
+            },
+            {
+              "floor": 3, 
+              "row": "AAB"
+            },
+            {
+              "floor": 4, 
+              "row": "AAC"
+            },
+            {
+              "floor": 5, 
+              "row": "AAD"
+            }
+          ]
+        },
+        {
+          "column": "AAB",
+          "racks": [
+            {
+              "floor": 2, 
+              "row": "AAA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lane": "2",
+      "columns": [
+        {
+          "column": "AAC",
+          "racks": [
+            {
+              "floor": 3, 
+              "row": "AAA"
+            }
+          ]
+        },
+        {
+          "column": "AAD",
+          "racks": [
+            {
+              "floor": 4, 
+              "row": "AAA"
+            }
+          ]
+        }
+      ]
+    }
+]
